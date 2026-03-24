@@ -1,2 +1,2 @@
-# Personal-workspace
-All of my programming related stuff 
+Hello :) 
+I am currently in my learning phase.
