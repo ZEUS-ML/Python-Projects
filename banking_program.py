@@ -7,7 +7,7 @@ def withdraw(balance):
         print("invalid amount")
         return 0
     elif amt > balance:
-        print("insufficient funds (ya broke piece of shit)")
+        print("insufficient funds")
         return 0
     else:
         print("amount withdrawn successfully")
